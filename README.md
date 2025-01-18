@@ -29,8 +29,8 @@ szu常用小工具~
 ---
 1. 登录进入ehall办事大厅-成绩查询
 2. F12进入开发者-网络并刷新
-3. 搜索$xscjcx.do$
-4. 复制该项的$cookies$并copy到源代码最前端的cookies值中
+3. 搜索`xscjcx.do`
+4. 复制该项的`cookies`并copy到源代码最前端的cookies值中
 5. 运行即可
 
 ---
