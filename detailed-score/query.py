@@ -148,7 +148,7 @@ def infer_coefficients(ps: float, qm: float, zcj: float) -> List[Tuple[int, int,
     """
     coeffs = list(range(0, 101, 10))
     sols: List[Tuple[int, int, float]] = []
-    tol = 1e-6
+    tol = 0.51
 
     def match(v: float, target: float) -> bool:
         # 允许非常小的浮点误差；也兼容 ZCJ 是整数但计算值有 0.5 等情况（按常见显示不会四舍五入）
