@@ -21,7 +21,7 @@ szu常用小工具~
 - [keepdrcom](keepdrcom)  
   宿舍区&教学区自动联网小工具
 
-如有任何疑问，请提PR或Issue，thx，或邮件联系`szudyh@qq.com`
+如有任何疑问，请提PR或Issue，thx，或邮件联系`yunhao@link.cuhk.edu.hk`
 如果使用有帮助，麻烦点个Star~
 
 **本项目仅供学习交流使用，使用本工具造成的一切后果均由脚本使用者负责，开发者不承担任何责任。**
